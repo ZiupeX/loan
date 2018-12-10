@@ -1,6 +1,8 @@
 START SERVICE:
- >> Download source /n
- >> mvn clean package /n
+ >> Download source 
+ 
+ >> mvn clean package 
+ 
  mvn spring-boot:run
  
 CREATING LOAN:
